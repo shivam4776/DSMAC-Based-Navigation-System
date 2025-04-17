@@ -1,9 +1,3 @@
-# DSMAC-Based-Navigation-System
-
-Absolutely! Here's a clean and professional README template you can use for your GitHub repository. It includes sections for project overview, features, how to run the apps, and more:
-
----
-
 # 🚀 DSMAC-Based Navigation System
 
 A Windows application suite designed to simulate and evaluate aircraft or missile navigation in GPS-denied environments using vision-based techniques.
