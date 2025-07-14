@@ -1,4 +1,4 @@
-<img width="708" height="412" alt="foggy result" src="https://github.com/user-attachments/assets/f2d41b90-3d50-459e-bef7-0ea8973f29c0" /># 🚀 DSMAC-Based Navigation System
+# 🚀 DSMAC-Based Navigation System
 
 A Windows application suite designed to simulate and evaluate aircraft or missile navigation in GPS-denied environments using vision-based techniques.
 
