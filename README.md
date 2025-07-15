@@ -49,7 +49,7 @@ The project consists of two core applications:
 
 ## 📊 Sample Output
 
-1. **DCAS App**
+1. DCAS App
    --- 
    <img width="398" height="320" alt="1DCAS" src="https://github.com/user-attachments/assets/eea4accb-1d2a-46d2-b0f0-eee78976ec16" />
   
