@@ -49,19 +49,17 @@ The project consists of two core applications:
 
 ## 📊 Sample Output
 
-1. DCAS App
+#### 1. DCAS Application
    --- 
    <img width="398" height="320" alt="1DCAS" src="https://github.com/user-attachments/assets/eea4accb-1d2a-46d2-b0f0-eee78976ec16" />
   
    <img width="397" height="319" alt="2DCAS" src="https://github.com/user-attachments/assets/fc6a5fae-9259-439d-9314-b4272a815963" />
   
    <img width="398" height="320" alt="3DCAS" src="https://github.com/user-attachments/assets/4e19e861-979d-4a24-9bea-2a3735d48a45" />
-3. **Flight Test Simulator**
+#### 2. Flight Test Simulator Application
    <img width="1920" height="1080" alt="Framework" src="https://github.com/user-attachments/assets/7c0eb7f9-e1c6-4c13-8e9c-148e59fac940" />
 
-   
-
-- [ ] Include example plots of error analysis
+#### Results
 <img width="1200" height="800" alt="graphFoggy" src="https://github.com/user-attachments/assets/6fa61a6a-ccd2-4193-845e-c79c66d254ea" />
 <img width="1200" height="800" alt="graphLowLight" src="https://github.com/user-attachments/assets/87415ada-ede6-4649-8c5c-54be1b26e52f" />
 <img width="1200" height="800" alt="graphRainy" src="https://github.com/user-attachments/assets/ac184772-8f9f-40f5-91aa-4ca47e96876c" />
