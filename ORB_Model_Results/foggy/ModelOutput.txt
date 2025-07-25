@@ -1,0 +1,80 @@
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\1.png
+Top Match: G:\Low Q with O\img8,5.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 08 96, 77 00 48.01
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\10.png
+Top Match: G:\Low Q with O\img14,10.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 02 96, 77 00 58.11
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\11.png
+Top Match: G:\Low Q with O\img16,10.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 00 96, 77 00 58.11
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\12.png
+Top Match: G:\Low Q with O\img16,10.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 00 96, 77 00 58.11
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\13.png
+Top Match: G:\Low Q with O\img15,11.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 02 37, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\14.png
+Top Match: G:\Low Q with O\img15,12.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 02 37, 77 01 2.15
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\15.png
+Top Match: G:\Low Q with O\img14,13.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 02 96, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\16.png
+Top Match: G:\Low Q with O\img13,14.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 04 32, 77 01 6.19
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\17.png
+Top Match: G:\Low Q with O\img12,15.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 04 96, 77 01 8.21
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\18.png
+Top Match: G:\Low Q with O\img10,15.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 06 96, 77 01 8.21
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\19.png
+Top Match: G:\Low Q with O\img8,15.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 08 96, 77 01 8.21
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\2.png
+Top Match: G:\Low Q with O\img7,5.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 10 14, 77 00 48.01
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\20.png
+Top Match: G:\Low Q with O\img6,16.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 10 96, 77 01 10.23
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\3.png
+Top Match: G:\Low Q with O\img5,5.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 12 08, 77 00 48.01
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\4.png
+Top Match: G:\Low Q with O\img5,6.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 12 08, 77 00 50.03
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\5.png
+Top Match: G:\Low Q with O\img5,6.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 12 08, 77 00 50.03
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\6.png
+Top Match: G:\Low Q with O\img7,7.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 10 14, 77 00 52.05
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\7.png
+Top Match: G:\Low Q with O\img8,7.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 08 96, 77 00 52.05
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\8.png
+Top Match: G:\Low Q with O\img10,8.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 06 96, 77 00 54.07
+Processing: C:/Users/parul/Desktop/Framework/Frameworkss/weathers/Captured_Images\9.png
+Top Match: G:\Low Q with O\img12,9.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 04 96, 77 00 56.09

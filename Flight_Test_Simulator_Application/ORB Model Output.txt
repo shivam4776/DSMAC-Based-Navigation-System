@@ -1,0 +1,152 @@
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\1.png
+Top Match: G:\Low Q with O\img4,3.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 12 96, 77 00 43.97
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\10.png
+Top Match: G:\Low Q with O\img11,5.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 06 26, 77 00 48.01
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\11.png
+Top Match: G:\Low Q with O\img13,5.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 04 32, 77 00 48.01
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\12.png
+Top Match: G:\Low Q with O\img13,7.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 04 32, 77 00 52.05
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\13.png
+Top Match: G:\Low Q with O\img13,7.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 04 32, 77 00 52.05
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\14.png
+Top Match: G:\Low Q with O\img13,9.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 04 32, 77 00 56.09
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\15.png
+Top Match: G:\Low Q with O\img13,9.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 04 32, 77 00 56.09
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\16.png
+Top Match: G:\Low Q with O\img13,9.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 04 32, 77 00 56.09
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\17.png
+Top Match: G:\Low Q with O\img11,11.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 06 26, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\18.png
+Top Match: G:\Low Q with O\img11,11.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 06 26, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\19.png
+Top Match: G:\Low Q with O\img9,11.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 08 20, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\2.png
+Top Match: G:\Low Q with O\img5,3.png
+Probability: 0.07%
+Latitude-Longitude: 28 44 12 08, 77 00 43.97
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\20.png
+Top Match: G:\Low Q with O\img7,11.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 10 14, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\21.png
+Top Match: G:\Low Q with O\img7,11.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 10 14, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\22.png
+Top Match: G:\Low Q with O\img5,11.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 12 08, 77 01 0.13
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\23.png
+Top Match: G:\Low Q with O\img5,13.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 12 08, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\24.png
+Top Match: G:\Low Q with O\img3,13.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 14 03, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\25.png
+Top Match: G:\Low Q with O\img3,13.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 14 03, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\26.png
+Top Match: G:\Low Q with O\img1,13.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 15 96, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\27.png
+Top Match: G:\Low Q with O\img1,13.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 15 96, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\28.png
+Top Match: G:\Low Q with O\img3,13.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 14 03, 77 01 4.17
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\29.png
+Top Match: G:\Low Q with O\img5,14.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 12 08, 77 01 6.19
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\3.png
+Top Match: G:\Low Q with O\img5,3.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 12 08, 77 00 43.97
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\30.png
+Top Match: G:\Low Q with O\img6,14.png
+Probability: 0.01%
+Latitude-Longitude: 28 44 10 96, 77 01 6.19
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\31.png
+Top Match: G:\Low Q with O\img7,15.png
+Probability: 0.08%
+Latitude-Longitude: 28 44 10 14, 77 01 8.21
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\32.png
+Top Match: G:\Low Q with O\img9,16.png
+Probability: 0.06%
+Latitude-Longitude: 28 44 08 20, 77 01 10.23
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\33.png
+Top Match: G:\Low Q with O\img10,16.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 06 96, 77 01 10.23
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\34.png
+Top Match: G:\Low Q with O\img11,16.png
+Probability: 0.06%
+Latitude-Longitude: 28 44 06 26, 77 01 10.23
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\35.png
+Top Match: G:\Low Q with O\img13,17.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 04 32, 77 01 12.25
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\36.png
+Top Match: G:\Low Q with O\img14,18.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 02 96, 77 01 14.27
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\37.png
+Top Match: G:\Low Q with O\img15,19.png
+Probability: 0.06%
+Latitude-Longitude: 28 44 02 37, 77 01 16.29
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\38.png
+Top Match: G:\Low Q with O\img15,19.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 02 37, 77 01 16.29
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\4.png
+Top Match: G:\Low Q with O\img8,3.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 08 96, 77 00 43.97
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\5.png
+Top Match: G:\Low Q with O\img9,3.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 08 20, 77 00 43.97
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\6.png
+Top Match: G:\Low Q with O\img9,4.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 08 20, 77 00 45.99
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\7.png
+Top Match: G:\Low Q with O\img11,4.png
+Probability: 0.04%
+Latitude-Longitude: 28 44 06 26, 77 00 45.99
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\8.png
+Top Match: G:\Low Q with O\img12,4.png
+Probability: 0.02%
+Latitude-Longitude: 28 44 04 96, 77 00 45.99
+Processing: C:/Users/parul/Desktop/Framework/sharanFrameWork1 (with NEW image)/Captured_Images\9.png
+Top Match: G:\Low Q with O\img11,5.png
+Probability: 0.03%
+Latitude-Longitude: 28 44 06 26, 77 00 48.01
