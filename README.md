@@ -51,7 +51,8 @@ The project consists of two core applications:
 
 #### 1. DCAS Application
    --- 
-   <img width="746" height="335" alt="DCASF" src="https://github.com/user-attachments/assets/ba2478cc-a4e7-4b76-8138-4676d2373bd5" />
+   <img width="398" height="320" alt="1DCAS" src="https://github.com/user-attachments/assets/eea4accb-1d2a-46d2-b0f0-eee78976ec16" /> 
+   <img width="397" height="319" alt="2DCAS" src="https://github.com/user-attachments/assets/fc6a5fae-9259-439d-9314-b4272a815963" />
 
    <img width="398" height="320" alt="3DCAS" src="https://github.com/user-attachments/assets/4e19e861-979d-4a24-9bea-2a3735d48a45" />
    
